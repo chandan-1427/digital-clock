@@ -18,7 +18,6 @@ A feature-rich digital clock web app built with React, Vite, and Tailwind CSS. I
 - [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Lucide Icons](https://lucide.dev/)
-- [Framer Motion](https://www.framer.com/motion/) (installed, not used in code)
 - [React Icons](https://react-icons.github.io/react-icons/)
 
 ## Project Structure
